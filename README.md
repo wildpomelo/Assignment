@@ -34,5 +34,5 @@ The list should appear logged into the command window:
     URL:
      'https://www.cnn.com/2019/03/22/politics/mike-pompeo-donald-trump-israel-golan-heights/index.html',
     date: 'Updated 6:29 AM ET, Sat March 23, 2019 ' },
-    ```
+```
     
