@@ -11,7 +11,7 @@ app = Flask(__name__)
 @app.route('/tweet')
 def output():
 	# serve index template
-	return render_template('crawlie.html', 
+	return render_template('page.html', 
 		t1=cont[0], 
 		t2=cont[1], 
 		t3=cont[2], 
